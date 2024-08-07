@@ -1,0 +1,47 @@
+body{
+margin: 12em;
+background: white;
+font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#display{
+    margin-left: 4em;
+    font-size: 40px;
+    color:#000000;
+}
+
+.container{
+    align-items: center;
+    text-align: center;
+}
+
+.btn-op{
+    background-color: #1C9CF6;
+    color:white;
+}
+.btn-op:hover{
+   filter: brightness(90%);
+}
+
+.btn-c{
+    background-color: #1ecbe1;
+    color:white;
+}
+.btn-c:hover{
+    filter: brightness(90%);
+}
+
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    margin: 2px;
+    font-size: 20px;
+}
+
+.zero{
+    width:100px;
+    height:50px;
+    border-radius: 999px;
+}
